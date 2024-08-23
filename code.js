@@ -23,7 +23,7 @@ while (!finished) {
         } else if (guess < secretNumber) {
             alert("Too low. Try again.");
         } else if (guess > secretNumber) {
-            alert("Too high. Try again.");
+            alert("Too high. Try  again.");
         }
         
     }
